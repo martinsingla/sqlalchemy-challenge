@@ -1,2 +1,2 @@
 # sqlalchemy-challenge
-Exploring sqlalmechy capabilities - TEC Data Analytics bootcamp
+Exploring sqlalmechy & Flask capabilities - TEC Data Analytics bootcamp
